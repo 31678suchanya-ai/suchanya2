@@ -1,0 +1,29 @@
+< ! DOCTYPE <html>
+</html lang="th">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewport" content="width=device-width' initial-scale=1.0">
+    <title>รายการอาหาร</title>
+</head>
+<body></body>
+    <center>
+    <h1 style="color: chocolate(185,24,191,0.647);"สตรีศรีน่านโภชนาการ</h1>
+    </center>
+    <h1>เมนูผัด</h1>
+    <ol type="A"
+        <li></li>ผัดกระเพราะหมูสับ</h2>
+        <li></li>ผัดฉ่าปลาดุก</li>
+        <li></li>ผัดเห็ดรวม</li>
+    <ol></ol>
+    <h2>เมนูของหวาน</h2>
+    <ul type="circle"
+        <li>บัวลอยไข่หวาน</li>
+        <li>น้ำแข็งใส</li
+        <li>ลอดช่องสิงค์โปร</li
+    </ul>
+    <h2>เมนูทอด</h2>
+    <li>ทอดปลา</li>
+    <li>ทอดไก่ </li>
+    <li>ทอดไข่ </li>
+</body>
+</html>
